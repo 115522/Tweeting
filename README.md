@@ -67,4 +67,5 @@ K-Means algorithm has been executed by
 - k =6  values (2 to 6 clusters)
 ## TRY MY PROJECT CODE ON BINDER 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/115522/Tweeting.git/main)
 

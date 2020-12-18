@@ -16,7 +16,7 @@ a result of a huge number of tweets which let  tweetos not interested to loss ti
   So
 when a new tweet is added to the corpus, it must be labeled easily without performing the full clustering again</li>
 
-### KeyWord
+### KeyWords
 
 <B>Text mining  /  clustering   /  NLP /  tweepy  / NLTK  / twitter API </B>
 
